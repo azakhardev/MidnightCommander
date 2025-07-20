@@ -1,0 +1,304 @@
+C:\Users\Артём\Desktop\SSSVT predmety\PRG\MidnightCommander\MidnightCommander\bin\Debug\MidnightCommander.exe.config
+C:\Users\Артём\Desktop\SSSVT predmety\PRG\MidnightCommander\MidnightCommander\bin\Debug\MidnightCommander.exe
+C:\Users\Артём\Desktop\SSSVT predmety\PRG\MidnightCommander\MidnightCommander\bin\Debug\MidnightCommander.pdb
+C:\Users\Артём\Desktop\SSSVT predmety\PRG\MidnightCommander\MidnightCommander\obj\Debug\MidnightCommander.csproj.AssemblyReference.cache
+C:\Users\Артём\Desktop\SSSVT predmety\PRG\MidnightCommander\MidnightCommander\obj\Debug\MidnightCommander.csproj.SuggestedBindingRedirects.cache
+C:\Users\Артём\Desktop\SSSVT predmety\PRG\MidnightCommander\MidnightCommander\obj\Debug\MidnightCommander.csproj.CoreCompileInputs.cache
+C:\Users\Артём\Desktop\SSSVT predmety\PRG\MidnightCommander\MidnightCommander\obj\Debug\MidnightCommander.exe
+C:\Users\Артём\Desktop\SSSVT predmety\PRG\MidnightCommander\MidnightCommander\obj\Debug\MidnightCommander.pdb
+X:\P.B\PRG\MidnightCommander\MidnightCommander8\MidnightCommander\bin\Debug\MidnightCommander.exe.config
+X:\P.B\PRG\MidnightCommander\MidnightCommander8\MidnightCommander\bin\Debug\MidnightCommander.exe
+X:\P.B\PRG\MidnightCommander\MidnightCommander8\MidnightCommander\bin\Debug\MidnightCommander.pdb
+X:\P.B\PRG\MidnightCommander\MidnightCommander8\MidnightCommander\obj\Debug\MidnightCommander.csproj.AssemblyReference.cache
+X:\P.B\PRG\MidnightCommander\MidnightCommander8\MidnightCommander\obj\Debug\MidnightCommander.csproj.SuggestedBindingRedirects.cache
+X:\P.B\PRG\MidnightCommander\MidnightCommander8\MidnightCommander\obj\Debug\MidnightCommander.csproj.CoreCompileInputs.cache
+X:\P.B\PRG\MidnightCommander\MidnightCommander8\MidnightCommander\obj\Debug\MidnightCommander.exe
+X:\P.B\PRG\MidnightCommander\MidnightCommander8\MidnightCommander\obj\Debug\MidnightCommander.pdb
+X:\P.B\PRG\MidnightCommander\MidnightCommander9\MidnightCommander\bin\Debug\MidnightCommander.exe.config
+X:\P.B\PRG\MidnightCommander\MidnightCommander9\MidnightCommander\bin\Debug\MidnightCommander.exe
+X:\P.B\PRG\MidnightCommander\MidnightCommander9\MidnightCommander\bin\Debug\MidnightCommander.pdb
+X:\P.B\PRG\MidnightCommander\MidnightCommander9\MidnightCommander\obj\Debug\MidnightCommander.csproj.AssemblyReference.cache
+X:\P.B\PRG\MidnightCommander\MidnightCommander9\MidnightCommander\obj\Debug\MidnightCommander.csproj.SuggestedBindingRedirects.cache
+X:\P.B\PRG\MidnightCommander\MidnightCommander9\MidnightCommander\obj\Debug\MidnightCommander.csproj.CoreCompileInputs.cache
+X:\P.B\PRG\MidnightCommander\MidnightCommander9\MidnightCommander\obj\Debug\MidnightCommander.exe
+X:\P.B\PRG\MidnightCommander\MidnightCommander9\MidnightCommander\obj\Debug\MidnightCommander.pdb
+C:\Users\Артём\Desktop\SSSVT predmety\PRG\MidnightCommander9\MidnightCommander\bin\Debug\MidnightCommander.exe.config
+C:\Users\Артём\Desktop\SSSVT predmety\PRG\MidnightCommander9\MidnightCommander\bin\Debug\MidnightCommander.exe
+C:\Users\Артём\Desktop\SSSVT predmety\PRG\MidnightCommander9\MidnightCommander\bin\Debug\MidnightCommander.pdb
+C:\Users\Артём\Desktop\SSSVT predmety\PRG\MidnightCommander9\MidnightCommander\obj\Debug\MidnightCommander.csproj.AssemblyReference.cache
+C:\Users\Артём\Desktop\SSSVT predmety\PRG\MidnightCommander9\MidnightCommander\obj\Debug\MidnightCommander.csproj.SuggestedBindingRedirects.cache
+C:\Users\Артём\Desktop\SSSVT predmety\PRG\MidnightCommander9\MidnightCommander\obj\Debug\MidnightCommander.csproj.CoreCompileInputs.cache
+C:\Users\Артём\Desktop\SSSVT predmety\PRG\MidnightCommander9\MidnightCommander\obj\Debug\MidnightCommander.exe
+C:\Users\Артём\Desktop\SSSVT predmety\PRG\MidnightCommander9\MidnightCommander\obj\Debug\MidnightCommander.pdb
+X:\P.B\PRG\MidnightCommander\MidnightCommander11\MidnightCommander\bin\Debug\MidnightCommander.exe.config
+X:\P.B\PRG\MidnightCommander\MidnightCommander11\MidnightCommander\bin\Debug\MidnightCommander.exe
+X:\P.B\PRG\MidnightCommander\MidnightCommander11\MidnightCommander\bin\Debug\MidnightCommander.pdb
+X:\P.B\PRG\MidnightCommander\MidnightCommander11\MidnightCommander\obj\Debug\MidnightCommander.csproj.AssemblyReference.cache
+X:\P.B\PRG\MidnightCommander\MidnightCommander11\MidnightCommander\obj\Debug\MidnightCommander.csproj.SuggestedBindingRedirects.cache
+X:\P.B\PRG\MidnightCommander\MidnightCommander11\MidnightCommander\obj\Debug\MidnightCommander.csproj.CoreCompileInputs.cache
+X:\P.B\PRG\MidnightCommander\MidnightCommander11\MidnightCommander\obj\Debug\MidnightCommander.exe
+X:\P.B\PRG\MidnightCommander\MidnightCommander11\MidnightCommander\obj\Debug\MidnightCommander.pdb
+U:\P.B\PRG\MidnightCommander\MidnightCommander11\MidnightCommander\bin\Debug\MidnightCommander.exe.config
+U:\P.B\PRG\MidnightCommander\MidnightCommander11\MidnightCommander\bin\Debug\MidnightCommander.exe
+U:\P.B\PRG\MidnightCommander\MidnightCommander11\MidnightCommander\bin\Debug\MidnightCommander.pdb
+U:\P.B\PRG\MidnightCommander\MidnightCommander11\MidnightCommander\obj\Debug\MidnightCommander.csproj.AssemblyReference.cache
+U:\P.B\PRG\MidnightCommander\MidnightCommander11\MidnightCommander\obj\Debug\MidnightCommander.csproj.SuggestedBindingRedirects.cache
+U:\P.B\PRG\MidnightCommander\MidnightCommander11\MidnightCommander\obj\Debug\MidnightCommander.csproj.CoreCompileInputs.cache
+U:\P.B\PRG\MidnightCommander\MidnightCommander11\MidnightCommander\obj\Debug\MidnightCommander.exe
+U:\P.B\PRG\MidnightCommander\MidnightCommander11\MidnightCommander\obj\Debug\MidnightCommander.pdb
+U:\P.B\PRG\MidnightCommander\MidnightCommander14\MidnightCommander\bin\Debug\MidnightCommander.exe.config
+U:\P.B\PRG\MidnightCommander\MidnightCommander14\MidnightCommander\bin\Debug\MidnightCommander.exe
+U:\P.B\PRG\MidnightCommander\MidnightCommander14\MidnightCommander\bin\Debug\MidnightCommander.pdb
+U:\P.B\PRG\MidnightCommander\MidnightCommander14\MidnightCommander\obj\Debug\MidnightCommander.csproj.AssemblyReference.cache
+U:\P.B\PRG\MidnightCommander\MidnightCommander14\MidnightCommander\obj\Debug\MidnightCommander.csproj.SuggestedBindingRedirects.cache
+U:\P.B\PRG\MidnightCommander\MidnightCommander14\MidnightCommander\obj\Debug\MidnightCommander.csproj.CoreCompileInputs.cache
+U:\P.B\PRG\MidnightCommander\MidnightCommander14\MidnightCommander\obj\Debug\MidnightCommander.exe
+U:\P.B\PRG\MidnightCommander\MidnightCommander14\MidnightCommander\obj\Debug\MidnightCommander.pdb
+U:\P.B\PRG\MidnightCommander\MidnightCommander15\MidnightCommander\bin\Debug\MidnightCommander.exe.config
+U:\P.B\PRG\MidnightCommander\MidnightCommander15\MidnightCommander\bin\Debug\MidnightCommander.exe
+U:\P.B\PRG\MidnightCommander\MidnightCommander15\MidnightCommander\bin\Debug\MidnightCommander.pdb
+U:\P.B\PRG\MidnightCommander\MidnightCommander15\MidnightCommander\obj\Debug\MidnightCommander.csproj.AssemblyReference.cache
+U:\P.B\PRG\MidnightCommander\MidnightCommander15\MidnightCommander\obj\Debug\MidnightCommander.csproj.SuggestedBindingRedirects.cache
+U:\P.B\PRG\MidnightCommander\MidnightCommander15\MidnightCommander\obj\Debug\MidnightCommander.csproj.CoreCompileInputs.cache
+U:\P.B\PRG\MidnightCommander\MidnightCommander15\MidnightCommander\obj\Debug\MidnightCommander.exe
+U:\P.B\PRG\MidnightCommander\MidnightCommander15\MidnightCommander\obj\Debug\MidnightCommander.pdb
+U:\P.B\PRG\MidnightCommander\MidnightCommander16\MidnightCommander\bin\Debug\MidnightCommander.exe.config
+U:\P.B\PRG\MidnightCommander\MidnightCommander16\MidnightCommander\bin\Debug\MidnightCommander.exe
+U:\P.B\PRG\MidnightCommander\MidnightCommander16\MidnightCommander\bin\Debug\MidnightCommander.pdb
+U:\P.B\PRG\MidnightCommander\MidnightCommander16\MidnightCommander\obj\Debug\MidnightCommander.csproj.AssemblyReference.cache
+U:\P.B\PRG\MidnightCommander\MidnightCommander16\MidnightCommander\obj\Debug\MidnightCommander.csproj.SuggestedBindingRedirects.cache
+U:\P.B\PRG\MidnightCommander\MidnightCommander16\MidnightCommander\obj\Debug\MidnightCommander.csproj.CoreCompileInputs.cache
+U:\P.B\PRG\MidnightCommander\MidnightCommander16\MidnightCommander\obj\Debug\MidnightCommander.exe
+U:\P.B\PRG\MidnightCommander\MidnightCommander16\MidnightCommander\obj\Debug\MidnightCommander.pdb
+U:\P.B\PRG\MidnightCommander\MidnightCommander17\MidnightCommander\bin\Debug\MidnightCommander.exe.config
+U:\P.B\PRG\MidnightCommander\MidnightCommander17\MidnightCommander\bin\Debug\MidnightCommander.exe
+U:\P.B\PRG\MidnightCommander\MidnightCommander17\MidnightCommander\bin\Debug\MidnightCommander.pdb
+U:\P.B\PRG\MidnightCommander\MidnightCommander17\MidnightCommander\obj\Debug\MidnightCommander.csproj.AssemblyReference.cache
+U:\P.B\PRG\MidnightCommander\MidnightCommander17\MidnightCommander\obj\Debug\MidnightCommander.csproj.SuggestedBindingRedirects.cache
+U:\P.B\PRG\MidnightCommander\MidnightCommander17\MidnightCommander\obj\Debug\MidnightCommander.csproj.CoreCompileInputs.cache
+U:\P.B\PRG\MidnightCommander\MidnightCommander17\MidnightCommander\obj\Debug\MidnightCommander.exe
+U:\P.B\PRG\MidnightCommander\MidnightCommander17\MidnightCommander\obj\Debug\MidnightCommander.pdb
+U:\P.B\PRG\MidnightCommander\MidnightCommander18\MidnightCommander\bin\Debug\MidnightCommander.exe.config
+U:\P.B\PRG\MidnightCommander\MidnightCommander18\MidnightCommander\bin\Debug\MidnightCommander.exe
+U:\P.B\PRG\MidnightCommander\MidnightCommander18\MidnightCommander\bin\Debug\MidnightCommander.pdb
+U:\P.B\PRG\MidnightCommander\MidnightCommander18\MidnightCommander\obj\Debug\MidnightCommander.csproj.AssemblyReference.cache
+U:\P.B\PRG\MidnightCommander\MidnightCommander18\MidnightCommander\obj\Debug\MidnightCommander.csproj.SuggestedBindingRedirects.cache
+U:\P.B\PRG\MidnightCommander\MidnightCommander18\MidnightCommander\obj\Debug\MidnightCommander.csproj.CoreCompileInputs.cache
+U:\P.B\PRG\MidnightCommander\MidnightCommander18\MidnightCommander\obj\Debug\MidnightCommander.exe
+U:\P.B\PRG\MidnightCommander\MidnightCommander18\MidnightCommander\obj\Debug\MidnightCommander.pdb
+X:\P.B\PRG\MidnightCommander\MidnightCommander19\MidnightCommander\bin\Debug\MidnightCommander.exe.config
+X:\P.B\PRG\MidnightCommander\MidnightCommander19\MidnightCommander\bin\Debug\MidnightCommander.exe
+X:\P.B\PRG\MidnightCommander\MidnightCommander19\MidnightCommander\bin\Debug\MidnightCommander.pdb
+X:\P.B\PRG\MidnightCommander\MidnightCommander19\MidnightCommander\obj\Debug\MidnightCommander.csproj.AssemblyReference.cache
+X:\P.B\PRG\MidnightCommander\MidnightCommander19\MidnightCommander\obj\Debug\MidnightCommander.csproj.SuggestedBindingRedirects.cache
+X:\P.B\PRG\MidnightCommander\MidnightCommander19\MidnightCommander\obj\Debug\MidnightCommander.csproj.CoreCompileInputs.cache
+X:\P.B\PRG\MidnightCommander\MidnightCommander19\MidnightCommander\obj\Debug\MidnightCommander.exe
+X:\P.B\PRG\MidnightCommander\MidnightCommander19\MidnightCommander\obj\Debug\MidnightCommander.pdb
+X:\P.B\PRG\MidnightCommander\MidnightCommander20\MidnightCommander\bin\Debug\MidnightCommander.exe.config
+X:\P.B\PRG\MidnightCommander\MidnightCommander20\MidnightCommander\bin\Debug\MidnightCommander.exe
+X:\P.B\PRG\MidnightCommander\MidnightCommander20\MidnightCommander\bin\Debug\MidnightCommander.pdb
+X:\P.B\PRG\MidnightCommander\MidnightCommander20\MidnightCommander\obj\Debug\MidnightCommander.csproj.AssemblyReference.cache
+X:\P.B\PRG\MidnightCommander\MidnightCommander20\MidnightCommander\obj\Debug\MidnightCommander.csproj.SuggestedBindingRedirects.cache
+X:\P.B\PRG\MidnightCommander\MidnightCommander20\MidnightCommander\obj\Debug\MidnightCommander.csproj.CoreCompileInputs.cache
+X:\P.B\PRG\MidnightCommander\MidnightCommander20\MidnightCommander\obj\Debug\MidnightCommander.exe
+X:\P.B\PRG\MidnightCommander\MidnightCommander20\MidnightCommander\obj\Debug\MidnightCommander.pdb
+U:\P.B\PRG\MidnightCommander\MidnightCommander21 - OOP\MidnightCommander\bin\Debug\MidnightCommander.exe.config
+U:\P.B\PRG\MidnightCommander\MidnightCommander21 - OOP\MidnightCommander\bin\Debug\MidnightCommander.exe
+U:\P.B\PRG\MidnightCommander\MidnightCommander21 - OOP\MidnightCommander\bin\Debug\MidnightCommander.pdb
+U:\P.B\PRG\MidnightCommander\MidnightCommander21 - OOP\MidnightCommander\obj\Debug\MidnightCommander.csproj.AssemblyReference.cache
+U:\P.B\PRG\MidnightCommander\MidnightCommander21 - OOP\MidnightCommander\obj\Debug\MidnightCommander.csproj.SuggestedBindingRedirects.cache
+U:\P.B\PRG\MidnightCommander\MidnightCommander21 - OOP\MidnightCommander\obj\Debug\MidnightCommander.csproj.CoreCompileInputs.cache
+U:\P.B\PRG\MidnightCommander\MidnightCommander21 - OOP\MidnightCommander\obj\Debug\MidnightCommander.exe
+U:\P.B\PRG\MidnightCommander\MidnightCommander21 - OOP\MidnightCommander\obj\Debug\MidnightCommander.pdb
+U:\P.B\PRG\MidnightCommander\MidnightCommander22 - OOP\MidnightCommander\bin\Debug\MidnightCommander.exe.config
+U:\P.B\PRG\MidnightCommander\MidnightCommander22 - OOP\MidnightCommander\bin\Debug\MidnightCommander.exe
+U:\P.B\PRG\MidnightCommander\MidnightCommander22 - OOP\MidnightCommander\bin\Debug\MidnightCommander.pdb
+U:\P.B\PRG\MidnightCommander\MidnightCommander22 - OOP\MidnightCommander\obj\Debug\MidnightCommander.csproj.AssemblyReference.cache
+U:\P.B\PRG\MidnightCommander\MidnightCommander22 - OOP\MidnightCommander\obj\Debug\MidnightCommander.csproj.SuggestedBindingRedirects.cache
+U:\P.B\PRG\MidnightCommander\MidnightCommander22 - OOP\MidnightCommander\obj\Debug\MidnightCommander.csproj.CoreCompileInputs.cache
+U:\P.B\PRG\MidnightCommander\MidnightCommander22 - OOP\MidnightCommander\obj\Debug\MidnightCommander.exe
+U:\P.B\PRG\MidnightCommander\MidnightCommander22 - OOP\MidnightCommander\obj\Debug\MidnightCommander.pdb
+U:\P.B\PRG\MidnightCommander\MidnightCommander23 - OOP\MidnightCommander\bin\Debug\MidnightCommander.exe.config
+U:\P.B\PRG\MidnightCommander\MidnightCommander23 - OOP\MidnightCommander\bin\Debug\MidnightCommander.exe
+U:\P.B\PRG\MidnightCommander\MidnightCommander23 - OOP\MidnightCommander\bin\Debug\MidnightCommander.pdb
+U:\P.B\PRG\MidnightCommander\MidnightCommander23 - OOP\MidnightCommander\obj\Debug\MidnightCommander.csproj.AssemblyReference.cache
+U:\P.B\PRG\MidnightCommander\MidnightCommander23 - OOP\MidnightCommander\obj\Debug\MidnightCommander.csproj.SuggestedBindingRedirects.cache
+U:\P.B\PRG\MidnightCommander\MidnightCommander23 - OOP\MidnightCommander\obj\Debug\MidnightCommander.csproj.CoreCompileInputs.cache
+U:\P.B\PRG\MidnightCommander\MidnightCommander23 - OOP\MidnightCommander\obj\Debug\MidnightCommander.exe
+U:\P.B\PRG\MidnightCommander\MidnightCommander23 - OOP\MidnightCommander\obj\Debug\MidnightCommander.pdb
+U:\P.B\PRG\MidnightCommander\MidnightCommander24 - OOP\MidnightCommander\bin\Debug\MidnightCommander.exe.config
+U:\P.B\PRG\MidnightCommander\MidnightCommander24 - OOP\MidnightCommander\bin\Debug\MidnightCommander.exe
+U:\P.B\PRG\MidnightCommander\MidnightCommander24 - OOP\MidnightCommander\bin\Debug\MidnightCommander.pdb
+U:\P.B\PRG\MidnightCommander\MidnightCommander24 - OOP\MidnightCommander\obj\Debug\MidnightCommander.csproj.AssemblyReference.cache
+U:\P.B\PRG\MidnightCommander\MidnightCommander24 - OOP\MidnightCommander\obj\Debug\MidnightCommander.csproj.SuggestedBindingRedirects.cache
+U:\P.B\PRG\MidnightCommander\MidnightCommander24 - OOP\MidnightCommander\obj\Debug\MidnightCommander.csproj.CoreCompileInputs.cache
+U:\P.B\PRG\MidnightCommander\MidnightCommander24 - OOP\MidnightCommander\obj\Debug\MidnightCommander.exe
+U:\P.B\PRG\MidnightCommander\MidnightCommander24 - OOP\MidnightCommander\obj\Debug\MidnightCommander.pdb
+X:\P.B\PRG\MidnightCommander\MidnightCommander24 - OOP\MidnightCommander\bin\Debug\MidnightCommander.exe.config
+X:\P.B\PRG\MidnightCommander\MidnightCommander24 - OOP\MidnightCommander\bin\Debug\MidnightCommander.exe
+X:\P.B\PRG\MidnightCommander\MidnightCommander24 - OOP\MidnightCommander\bin\Debug\MidnightCommander.pdb
+X:\P.B\PRG\MidnightCommander\MidnightCommander24 - OOP\MidnightCommander\obj\Debug\MidnightCommander.csproj.AssemblyReference.cache
+X:\P.B\PRG\MidnightCommander\MidnightCommander24 - OOP\MidnightCommander\obj\Debug\MidnightCommander.csproj.SuggestedBindingRedirects.cache
+X:\P.B\PRG\MidnightCommander\MidnightCommander24 - OOP\MidnightCommander\obj\Debug\MidnightCommander.csproj.CoreCompileInputs.cache
+X:\P.B\PRG\MidnightCommander\MidnightCommander24 - OOP\MidnightCommander\obj\Debug\MidnightCommander.exe
+X:\P.B\PRG\MidnightCommander\MidnightCommander24 - OOP\MidnightCommander\obj\Debug\MidnightCommander.pdb
+X:\P.B\PRG\MidnightCommander\MidnightCommander25 - OOP\MidnightCommander\bin\Debug\MidnightCommander.exe.config
+X:\P.B\PRG\MidnightCommander\MidnightCommander25 - OOP\MidnightCommander\bin\Debug\MidnightCommander.exe
+X:\P.B\PRG\MidnightCommander\MidnightCommander25 - OOP\MidnightCommander\bin\Debug\MidnightCommander.pdb
+X:\P.B\PRG\MidnightCommander\MidnightCommander25 - OOP\MidnightCommander\obj\Debug\MidnightCommander.csproj.AssemblyReference.cache
+X:\P.B\PRG\MidnightCommander\MidnightCommander25 - OOP\MidnightCommander\obj\Debug\MidnightCommander.csproj.SuggestedBindingRedirects.cache
+X:\P.B\PRG\MidnightCommander\MidnightCommander25 - OOP\MidnightCommander\obj\Debug\MidnightCommander.csproj.CoreCompileInputs.cache
+X:\P.B\PRG\MidnightCommander\MidnightCommander25 - OOP\MidnightCommander\obj\Debug\MidnightCommander.exe
+X:\P.B\PRG\MidnightCommander\MidnightCommander25 - OOP\MidnightCommander\obj\Debug\MidnightCommander.pdb
+U:\P.B\PRG\MidnightCommander\MidnightCommander26 - OOP\MidnightCommander\bin\Debug\MidnightCommander.exe.config
+U:\P.B\PRG\MidnightCommander\MidnightCommander26 - OOP\MidnightCommander\bin\Debug\MidnightCommander.exe
+U:\P.B\PRG\MidnightCommander\MidnightCommander26 - OOP\MidnightCommander\bin\Debug\MidnightCommander.pdb
+U:\P.B\PRG\MidnightCommander\MidnightCommander26 - OOP\MidnightCommander\obj\Debug\MidnightCommander.csproj.AssemblyReference.cache
+U:\P.B\PRG\MidnightCommander\MidnightCommander26 - OOP\MidnightCommander\obj\Debug\MidnightCommander.csproj.SuggestedBindingRedirects.cache
+U:\P.B\PRG\MidnightCommander\MidnightCommander26 - OOP\MidnightCommander\obj\Debug\MidnightCommander.csproj.CoreCompileInputs.cache
+U:\P.B\PRG\MidnightCommander\MidnightCommander26 - OOP\MidnightCommander\obj\Debug\MidnightCommander.exe
+U:\P.B\PRG\MidnightCommander\MidnightCommander26 - OOP\MidnightCommander\obj\Debug\MidnightCommander.pdb
+U:\P.B\PRG\MidnightCommander\MidnightCommander28 - OOP\MidnightCommander\bin\Debug\MidnightCommander.exe.config
+U:\P.B\PRG\MidnightCommander\MidnightCommander28 - OOP\MidnightCommander\bin\Debug\MidnightCommander.exe
+U:\P.B\PRG\MidnightCommander\MidnightCommander28 - OOP\MidnightCommander\bin\Debug\MidnightCommander.pdb
+U:\P.B\PRG\MidnightCommander\MidnightCommander28 - OOP\MidnightCommander\obj\Debug\MidnightCommander.csproj.AssemblyReference.cache
+U:\P.B\PRG\MidnightCommander\MidnightCommander28 - OOP\MidnightCommander\obj\Debug\MidnightCommander.csproj.SuggestedBindingRedirects.cache
+U:\P.B\PRG\MidnightCommander\MidnightCommander28 - OOP\MidnightCommander\obj\Debug\MidnightCommander.csproj.CoreCompileInputs.cache
+U:\P.B\PRG\MidnightCommander\MidnightCommander28 - OOP\MidnightCommander\obj\Debug\MidnightCommander.exe
+U:\P.B\PRG\MidnightCommander\MidnightCommander28 - OOP\MidnightCommander\obj\Debug\MidnightCommander.pdb
+U:\P.B\PRG\MidnightCommander\MidnightCommander29 - OOP\MidnightCommander\obj\Debug\MidnightCommander.csproj.AssemblyReference.cache
+U:\P.B\PRG\MidnightCommander\MidnightCommander29 - OOP\MidnightCommander\obj\Debug\MidnightCommander.csproj.SuggestedBindingRedirects.cache
+U:\P.B\PRG\MidnightCommander\MidnightCommander29 - OOP\MidnightCommander\obj\Debug\MidnightCommander.csproj.CoreCompileInputs.cache
+U:\P.B\PRG\MidnightCommander\MidnightCommander29 - OOP\MidnightCommander\obj\Debug\MidnightCommander.exe
+U:\P.B\PRG\MidnightCommander\MidnightCommander29 - OOP\MidnightCommander\obj\Debug\MidnightCommander.pdb
+U:\P.B\PRG\MidnightCommander\MidnightCommander29 - OOP\MidnightCommander\bin\Debug\MidnightCommander.exe.config
+U:\P.B\PRG\MidnightCommander\MidnightCommander29 - OOP\MidnightCommander\bin\Debug\MidnightCommander.exe
+U:\P.B\PRG\MidnightCommander\MidnightCommander29 - OOP\MidnightCommander\bin\Debug\MidnightCommander.pdb
+U:\P.B\PRG\MidnightCommander\MidnightCommander30 - OOP\MidnightCommander\bin\Debug\MidnightCommander.exe.config
+U:\P.B\PRG\MidnightCommander\MidnightCommander30 - OOP\MidnightCommander\bin\Debug\MidnightCommander.exe
+U:\P.B\PRG\MidnightCommander\MidnightCommander30 - OOP\MidnightCommander\bin\Debug\MidnightCommander.pdb
+U:\P.B\PRG\MidnightCommander\MidnightCommander30 - OOP\MidnightCommander\obj\Debug\MidnightCommander.csproj.AssemblyReference.cache
+U:\P.B\PRG\MidnightCommander\MidnightCommander30 - OOP\MidnightCommander\obj\Debug\MidnightCommander.csproj.SuggestedBindingRedirects.cache
+U:\P.B\PRG\MidnightCommander\MidnightCommander30 - OOP\MidnightCommander\obj\Debug\MidnightCommander.csproj.CoreCompileInputs.cache
+U:\P.B\PRG\MidnightCommander\MidnightCommander30 - OOP\MidnightCommander\obj\Debug\MidnightCommander.exe
+U:\P.B\PRG\MidnightCommander\MidnightCommander30 - OOP\MidnightCommander\obj\Debug\MidnightCommander.pdb
+U:\P.B\PRG\MidnightCommander\MidnightCommander31 - OOP\MidnightCommander\bin\Debug\MidnightCommander.exe.config
+U:\P.B\PRG\MidnightCommander\MidnightCommander31 - OOP\MidnightCommander\bin\Debug\MidnightCommander.exe
+U:\P.B\PRG\MidnightCommander\MidnightCommander31 - OOP\MidnightCommander\bin\Debug\MidnightCommander.pdb
+U:\P.B\PRG\MidnightCommander\MidnightCommander31 - OOP\MidnightCommander\obj\Debug\MidnightCommander.csproj.AssemblyReference.cache
+U:\P.B\PRG\MidnightCommander\MidnightCommander31 - OOP\MidnightCommander\obj\Debug\MidnightCommander.csproj.SuggestedBindingRedirects.cache
+U:\P.B\PRG\MidnightCommander\MidnightCommander31 - OOP\MidnightCommander\obj\Debug\MidnightCommander.csproj.CoreCompileInputs.cache
+U:\P.B\PRG\MidnightCommander\MidnightCommander31 - OOP\MidnightCommander\obj\Debug\MidnightCommander.exe
+U:\P.B\PRG\MidnightCommander\MidnightCommander31 - OOP\MidnightCommander\obj\Debug\MidnightCommander.pdb
+U:\P.B\PRG\MidnightCommander\MidnightCommander32 - OOP\MidnightCommander\bin\Debug\MidnightCommander.exe.config
+U:\P.B\PRG\MidnightCommander\MidnightCommander32 - OOP\MidnightCommander\bin\Debug\MidnightCommander.exe
+U:\P.B\PRG\MidnightCommander\MidnightCommander32 - OOP\MidnightCommander\bin\Debug\MidnightCommander.pdb
+U:\P.B\PRG\MidnightCommander\MidnightCommander32 - OOP\MidnightCommander\obj\Debug\MidnightCommander.csproj.AssemblyReference.cache
+U:\P.B\PRG\MidnightCommander\MidnightCommander32 - OOP\MidnightCommander\obj\Debug\MidnightCommander.csproj.SuggestedBindingRedirects.cache
+U:\P.B\PRG\MidnightCommander\MidnightCommander32 - OOP\MidnightCommander\obj\Debug\MidnightCommander.csproj.CoreCompileInputs.cache
+U:\P.B\PRG\MidnightCommander\MidnightCommander32 - OOP\MidnightCommander\obj\Debug\MidnightCommander.exe
+U:\P.B\PRG\MidnightCommander\MidnightCommander32 - OOP\MidnightCommander\obj\Debug\MidnightCommander.pdb
+X:\P.B\PRG\MidnightCommander\MidnightCommander32 - OOP\MidnightCommander\bin\Debug\MidnightCommander.exe.config
+X:\P.B\PRG\MidnightCommander\MidnightCommander32 - OOP\MidnightCommander\bin\Debug\MidnightCommander.exe
+X:\P.B\PRG\MidnightCommander\MidnightCommander32 - OOP\MidnightCommander\bin\Debug\MidnightCommander.pdb
+X:\P.B\PRG\MidnightCommander\MidnightCommander32 - OOP\MidnightCommander\obj\Debug\MidnightCommander.csproj.AssemblyReference.cache
+X:\P.B\PRG\MidnightCommander\MidnightCommander32 - OOP\MidnightCommander\obj\Debug\MidnightCommander.csproj.SuggestedBindingRedirects.cache
+X:\P.B\PRG\MidnightCommander\MidnightCommander32 - OOP\MidnightCommander\obj\Debug\MidnightCommander.csproj.CoreCompileInputs.cache
+X:\P.B\PRG\MidnightCommander\MidnightCommander32 - OOP\MidnightCommander\obj\Debug\MidnightCommander.exe
+X:\P.B\PRG\MidnightCommander\MidnightCommander32 - OOP\MidnightCommander\obj\Debug\MidnightCommander.pdb
+X:\P.B\PRG\MidnightCommander\MidnightCommander33 - OOP\MidnightCommander\bin\Debug\MidnightCommander.exe.config
+X:\P.B\PRG\MidnightCommander\MidnightCommander33 - OOP\MidnightCommander\bin\Debug\MidnightCommander.exe
+X:\P.B\PRG\MidnightCommander\MidnightCommander33 - OOP\MidnightCommander\bin\Debug\MidnightCommander.pdb
+X:\P.B\PRG\MidnightCommander\MidnightCommander33 - OOP\MidnightCommander\obj\Debug\MidnightCommander.csproj.AssemblyReference.cache
+X:\P.B\PRG\MidnightCommander\MidnightCommander33 - OOP\MidnightCommander\obj\Debug\MidnightCommander.csproj.SuggestedBindingRedirects.cache
+X:\P.B\PRG\MidnightCommander\MidnightCommander33 - OOP\MidnightCommander\obj\Debug\MidnightCommander.csproj.CoreCompileInputs.cache
+X:\P.B\PRG\MidnightCommander\MidnightCommander33 - OOP\MidnightCommander\obj\Debug\MidnightCommander.exe
+X:\P.B\PRG\MidnightCommander\MidnightCommander33 - OOP\MidnightCommander\obj\Debug\MidnightCommander.pdb
+U:\P.B\PRG\MidnightCommander\MidnightCommander34 - OOP\MidnightCommander\bin\Debug\MidnightCommander.exe.config
+U:\P.B\PRG\MidnightCommander\MidnightCommander34 - OOP\MidnightCommander\bin\Debug\MidnightCommander.exe
+U:\P.B\PRG\MidnightCommander\MidnightCommander34 - OOP\MidnightCommander\bin\Debug\MidnightCommander.pdb
+U:\P.B\PRG\MidnightCommander\MidnightCommander34 - OOP\MidnightCommander\obj\Debug\MidnightCommander.csproj.AssemblyReference.cache
+U:\P.B\PRG\MidnightCommander\MidnightCommander34 - OOP\MidnightCommander\obj\Debug\MidnightCommander.csproj.SuggestedBindingRedirects.cache
+U:\P.B\PRG\MidnightCommander\MidnightCommander34 - OOP\MidnightCommander\obj\Debug\MidnightCommander.csproj.CoreCompileInputs.cache
+U:\P.B\PRG\MidnightCommander\MidnightCommander34 - OOP\MidnightCommander\obj\Debug\MidnightCommander.exe
+U:\P.B\PRG\MidnightCommander\MidnightCommander34 - OOP\MidnightCommander\obj\Debug\MidnightCommander.pdb
+U:\P.B\PRG\MidnightCommander\MidnightCommander34 - OOP - kopie\MidnightCommander\obj\Debug\MidnightCommander.csproj.AssemblyReference.cache
+U:\P.B\PRG\MidnightCommander\MidnightCommander34 - OOP - kopie\MidnightCommander\obj\Debug\MidnightCommander.csproj.SuggestedBindingRedirects.cache
+U:\P.B\PRG\MidnightCommander\MidnightCommander34 - OOP - kopie\MidnightCommander\obj\Debug\MidnightCommander.csproj.CoreCompileInputs.cache
+U:\P.B\PRG\MidnightCommander\MidnightCommander34 - OOP - kopie\MidnightCommander\obj\Debug\MidnightCommander.exe
+U:\P.B\PRG\MidnightCommander\MidnightCommander34 - OOP - kopie\MidnightCommander\obj\Debug\MidnightCommander.pdb
+U:\P.B\PRG\MidnightCommander\MidnightCommander34 - OOP - kopie\MidnightCommander\bin\Debug\MidnightCommander.exe.config
+U:\P.B\PRG\MidnightCommander\MidnightCommander34 - OOP - kopie\MidnightCommander\bin\Debug\MidnightCommander.exe
+U:\P.B\PRG\MidnightCommander\MidnightCommander34 - OOP - kopie\MidnightCommander\bin\Debug\MidnightCommander.pdb
+U:\P.B\PRG\MidnightCommander\MidnightCommander35 - OOP\MidnightCommander\bin\Debug\MidnightCommander.exe.config
+U:\P.B\PRG\MidnightCommander\MidnightCommander35 - OOP\MidnightCommander\bin\Debug\MidnightCommander.exe
+U:\P.B\PRG\MidnightCommander\MidnightCommander35 - OOP\MidnightCommander\bin\Debug\MidnightCommander.pdb
+U:\P.B\PRG\MidnightCommander\MidnightCommander35 - OOP\MidnightCommander\obj\Debug\MidnightCommander.csproj.AssemblyReference.cache
+U:\P.B\PRG\MidnightCommander\MidnightCommander35 - OOP\MidnightCommander\obj\Debug\MidnightCommander.csproj.SuggestedBindingRedirects.cache
+U:\P.B\PRG\MidnightCommander\MidnightCommander35 - OOP\MidnightCommander\obj\Debug\MidnightCommander.csproj.CoreCompileInputs.cache
+U:\P.B\PRG\MidnightCommander\MidnightCommander35 - OOP\MidnightCommander\obj\Debug\MidnightCommander.exe
+U:\P.B\PRG\MidnightCommander\MidnightCommander35 - OOP\MidnightCommander\obj\Debug\MidnightCommander.pdb
+U:\P.B\PRG\MidnightCommander\MidnightCommander36 - OOP\MidnightCommander\bin\Debug\MidnightCommander.exe.config
+U:\P.B\PRG\MidnightCommander\MidnightCommander36 - OOP\MidnightCommander\bin\Debug\MidnightCommander.exe
+U:\P.B\PRG\MidnightCommander\MidnightCommander36 - OOP\MidnightCommander\bin\Debug\MidnightCommander.pdb
+U:\P.B\PRG\MidnightCommander\MidnightCommander36 - OOP\MidnightCommander\obj\Debug\MidnightCommander.csproj.AssemblyReference.cache
+U:\P.B\PRG\MidnightCommander\MidnightCommander36 - OOP\MidnightCommander\obj\Debug\MidnightCommander.csproj.SuggestedBindingRedirects.cache
+U:\P.B\PRG\MidnightCommander\MidnightCommander36 - OOP\MidnightCommander\obj\Debug\MidnightCommander.csproj.CoreCompileInputs.cache
+U:\P.B\PRG\MidnightCommander\MidnightCommander36 - OOP\MidnightCommander\obj\Debug\MidnightCommander.exe
+U:\P.B\PRG\MidnightCommander\MidnightCommander36 - OOP\MidnightCommander\obj\Debug\MidnightCommander.pdb
+U:\P.B\PRG\MidnightCommander\MidnightCommander37 - OOP\MidnightCommander\bin\Debug\MidnightCommander.exe.config
+U:\P.B\PRG\MidnightCommander\MidnightCommander37 - OOP\MidnightCommander\bin\Debug\MidnightCommander.exe
+U:\P.B\PRG\MidnightCommander\MidnightCommander37 - OOP\MidnightCommander\bin\Debug\MidnightCommander.pdb
+U:\P.B\PRG\MidnightCommander\MidnightCommander37 - OOP\MidnightCommander\obj\Debug\MidnightCommander.csproj.AssemblyReference.cache
+U:\P.B\PRG\MidnightCommander\MidnightCommander37 - OOP\MidnightCommander\obj\Debug\MidnightCommander.csproj.SuggestedBindingRedirects.cache
+U:\P.B\PRG\MidnightCommander\MidnightCommander37 - OOP\MidnightCommander\obj\Debug\MidnightCommander.csproj.CoreCompileInputs.cache
+U:\P.B\PRG\MidnightCommander\MidnightCommander37 - OOP\MidnightCommander\obj\Debug\MidnightCommander.exe
+U:\P.B\PRG\MidnightCommander\MidnightCommander37 - OOP\MidnightCommander\obj\Debug\MidnightCommander.pdb
+X:\P.B\PRG\MidnightCommander\MidnightCommander38 - OOP\MidnightCommander\bin\Debug\MidnightCommander.exe.config
+X:\P.B\PRG\MidnightCommander\MidnightCommander38 - OOP\MidnightCommander\bin\Debug\MidnightCommander.exe
+X:\P.B\PRG\MidnightCommander\MidnightCommander38 - OOP\MidnightCommander\bin\Debug\MidnightCommander.pdb
+X:\P.B\PRG\MidnightCommander\MidnightCommander38 - OOP\MidnightCommander\obj\Debug\MidnightCommander.csproj.AssemblyReference.cache
+X:\P.B\PRG\MidnightCommander\MidnightCommander38 - OOP\MidnightCommander\obj\Debug\MidnightCommander.csproj.SuggestedBindingRedirects.cache
+X:\P.B\PRG\MidnightCommander\MidnightCommander38 - OOP\MidnightCommander\obj\Debug\MidnightCommander.csproj.CoreCompileInputs.cache
+X:\P.B\PRG\MidnightCommander\MidnightCommander38 - OOP\MidnightCommander\obj\Debug\MidnightCommander.exe
+X:\P.B\PRG\MidnightCommander\MidnightCommander38 - OOP\MidnightCommander\obj\Debug\MidnightCommander.pdb
+X:\P.B\PRG\MidnightCommander\MidnightCommander39 - OOP\MidnightCommander\bin\Debug\MidnightCommander.exe.config
+X:\P.B\PRG\MidnightCommander\MidnightCommander39 - OOP\MidnightCommander\bin\Debug\MidnightCommander.exe
+X:\P.B\PRG\MidnightCommander\MidnightCommander39 - OOP\MidnightCommander\bin\Debug\MidnightCommander.pdb
+X:\P.B\PRG\MidnightCommander\MidnightCommander39 - OOP\MidnightCommander\obj\Debug\MidnightCommander.csproj.AssemblyReference.cache
+X:\P.B\PRG\MidnightCommander\MidnightCommander39 - OOP\MidnightCommander\obj\Debug\MidnightCommander.csproj.SuggestedBindingRedirects.cache
+X:\P.B\PRG\MidnightCommander\MidnightCommander39 - OOP\MidnightCommander\obj\Debug\MidnightCommander.csproj.CoreCompileInputs.cache
+X:\P.B\PRG\MidnightCommander\MidnightCommander39 - OOP\MidnightCommander\obj\Debug\MidnightCommander.exe
+X:\P.B\PRG\MidnightCommander\MidnightCommander39 - OOP\MidnightCommander\obj\Debug\MidnightCommander.pdb
+U:\P.B\PRG\MidnightCommander\MidnightCommander39 - OOP\MidnightCommander\bin\Debug\MidnightCommander.exe.config
+U:\P.B\PRG\MidnightCommander\MidnightCommander39 - OOP\MidnightCommander\bin\Debug\MidnightCommander.exe
+U:\P.B\PRG\MidnightCommander\MidnightCommander39 - OOP\MidnightCommander\bin\Debug\MidnightCommander.pdb
+U:\P.B\PRG\MidnightCommander\MidnightCommander39 - OOP\MidnightCommander\obj\Debug\MidnightCommander.csproj.AssemblyReference.cache
+U:\P.B\PRG\MidnightCommander\MidnightCommander39 - OOP\MidnightCommander\obj\Debug\MidnightCommander.csproj.SuggestedBindingRedirects.cache
+U:\P.B\PRG\MidnightCommander\MidnightCommander39 - OOP\MidnightCommander\obj\Debug\MidnightCommander.csproj.CoreCompileInputs.cache
+U:\P.B\PRG\MidnightCommander\MidnightCommander39 - OOP\MidnightCommander\obj\Debug\MidnightCommander.exe
+U:\P.B\PRG\MidnightCommander\MidnightCommander39 - OOP\MidnightCommander\obj\Debug\MidnightCommander.pdb
+U:\P.B\PRG\MidnightCommander\MidnightCommander40 - OOP\MidnightCommander\bin\Debug\MidnightCommander.exe.config
+U:\P.B\PRG\MidnightCommander\MidnightCommander40 - OOP\MidnightCommander\bin\Debug\MidnightCommander.exe
+U:\P.B\PRG\MidnightCommander\MidnightCommander40 - OOP\MidnightCommander\bin\Debug\MidnightCommander.pdb
+U:\P.B\PRG\MidnightCommander\MidnightCommander40 - OOP\MidnightCommander\obj\Debug\MidnightCommander.csproj.AssemblyReference.cache
+U:\P.B\PRG\MidnightCommander\MidnightCommander40 - OOP\MidnightCommander\obj\Debug\MidnightCommander.csproj.SuggestedBindingRedirects.cache
+U:\P.B\PRG\MidnightCommander\MidnightCommander40 - OOP\MidnightCommander\obj\Debug\MidnightCommander.csproj.CoreCompileInputs.cache
+U:\P.B\PRG\MidnightCommander\MidnightCommander40 - OOP\MidnightCommander\obj\Debug\MidnightCommander.exe
+U:\P.B\PRG\MidnightCommander\MidnightCommander40 - OOP\MidnightCommander\obj\Debug\MidnightCommander.pdb
+U:\P.B\PRG\MidnightCommander\MidnightCommander41 - OOP\MidnightCommander\bin\Debug\MidnightCommander.exe.config
+U:\P.B\PRG\MidnightCommander\MidnightCommander41 - OOP\MidnightCommander\bin\Debug\MidnightCommander.exe
+U:\P.B\PRG\MidnightCommander\MidnightCommander41 - OOP\MidnightCommander\bin\Debug\MidnightCommander.pdb
+U:\P.B\PRG\MidnightCommander\MidnightCommander41 - OOP\MidnightCommander\obj\Debug\MidnightCommander.csproj.AssemblyReference.cache
+U:\P.B\PRG\MidnightCommander\MidnightCommander41 - OOP\MidnightCommander\obj\Debug\MidnightCommander.csproj.SuggestedBindingRedirects.cache
+U:\P.B\PRG\MidnightCommander\MidnightCommander41 - OOP\MidnightCommander\obj\Debug\MidnightCommander.csproj.CoreCompileInputs.cache
+U:\P.B\PRG\MidnightCommander\MidnightCommander41 - OOP\MidnightCommander\obj\Debug\MidnightCommander.exe
+U:\P.B\PRG\MidnightCommander\MidnightCommander41 - OOP\MidnightCommander\obj\Debug\MidnightCommander.pdb
+C:\Users\Артём\Desktop\SSSVT predmety\PRG\MidnightCommander\MidnightCommander42 - OOP\MidnightCommander\bin\Debug\MidnightCommander.exe.config
+C:\Users\Артём\Desktop\SSSVT predmety\PRG\MidnightCommander\MidnightCommander42 - OOP\MidnightCommander\bin\Debug\MidnightCommander.exe
+C:\Users\Артём\Desktop\SSSVT predmety\PRG\MidnightCommander\MidnightCommander42 - OOP\MidnightCommander\bin\Debug\MidnightCommander.pdb
+C:\Users\Артём\Desktop\SSSVT predmety\PRG\MidnightCommander\MidnightCommander42 - OOP\MidnightCommander\obj\Debug\MidnightCommander.csproj.AssemblyReference.cache
+C:\Users\Артём\Desktop\SSSVT predmety\PRG\MidnightCommander\MidnightCommander42 - OOP\MidnightCommander\obj\Debug\MidnightCommander.csproj.SuggestedBindingRedirects.cache
+C:\Users\Артём\Desktop\SSSVT predmety\PRG\MidnightCommander\MidnightCommander42 - OOP\MidnightCommander\obj\Debug\MidnightCommander.csproj.CoreCompileInputs.cache
+C:\Users\Артём\Desktop\SSSVT predmety\PRG\MidnightCommander\MidnightCommander42 - OOP\MidnightCommander\obj\Debug\MidnightCommander.exe
+C:\Users\Артём\Desktop\SSSVT predmety\PRG\MidnightCommander\MidnightCommander42 - OOP\MidnightCommander\obj\Debug\MidnightCommander.pdb
